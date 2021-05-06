@@ -29,6 +29,9 @@ using System.Threading.Tasks;
  * 4. Registering account via Phone is just like this one, so I didn't add it! 
  *    but if you need it, you can purchase the library, it's already has the sample for phone registration!
  * 
+ * More information about private library: https://github.com/ramtinak/InstagramApiSharp/issues/243
+ * Private version change logs: https://github.com/ramtinak/InstagramApiSharp/issues/244
+ * 
  * ////////////////////////////// WARNING /////////////////////////////////
  * 
  */

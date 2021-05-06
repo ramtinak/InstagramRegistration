@@ -14,7 +14,14 @@ This project uses latest version of [InstagramApiSharp](https://github.com/ramti
 
 I'm going to update public repository of [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) one more time to get this job done.
 
-A Nowruz [new year of Iranian and Persian language's people] gift to all around the world.
+A lately Nowruz [new year of Iranian and Persian language's people] gift to all around the world.
+
+### Private Version
+More information about Private version of InstagramApiSharp's project:
+
+https://github.com/ramtinak/InstagramApiSharp/issues/243
+
+Private version change logs: https://github.com/ramtinak/InstagramApiSharp/issues/244
 
 ### License
 MIT.
