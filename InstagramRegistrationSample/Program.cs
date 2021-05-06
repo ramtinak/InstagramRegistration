@@ -20,17 +20,40 @@ using System.Threading.Tasks;
 
 /*
  * ////////////////////////////// WARNING /////////////////////////////////
+ * 
  * 1. You need InstagramApiSharp v1.6.0 for running this sample!
- * 2. This registration feature only works on .NETFramework 4.6.1 or newer or .NETStandard 2.0 or newer.
- * 3. Note that I didn't implement v180 API in the InstagramApiSharp's library, so it's only works for registration!!!!!
- *    You have to modify it a little bit by yourself to support it for LoginAsync and other stuff!
+ * 2. Registration feature only works on .NETFramework 4.6.1 or newer or .NETStandard 2.0 or newer or .NETCore.
+ * 3. Note that I didn't implement v180 API in the InstagramApiSharp's public library,
+ *    so it's only works for registration!!!!! You have to modify it a little bit by yourself 
+ *    to support it for LoginAsync and other stuff!
  * 4. Registering account via Phone is just like this one, so I didn't add it! 
  *    but if you need it, you can purchase the library, it's already has the sample for phone registration!
+ * 
+ * ////////////////////////////// WARNING /////////////////////////////////
+ * 
+ */
+/*
+ * //////////////////////////////////////////////// NOTE ////////////////////////////////////////////////
+ * 
+ * If you want to reference the InstagramApiSharp's project directly, you must add following library from nuget:
+ * 
+ * 1. Microsoft.CSharp          version 4.3.0 or newer
+ * 
+ * 2. Portable.BouncyCastle     version 1.8.6.7 or newer
+ * 
+ * 3. Newtonsoft.Json           version 10.0.3 or newer
+ * 
+ * //////////////////////////////////////////////// NOTE ////////////////////////////////////////////////
  * 
  */
 
 namespace InstagramRegistrationSample
 {
+    /*
+     * 
+     * DO NOT ASK ANY QUESTION! I WON'T ANSWER TO REGISTRATION QUESTIONS! SO DON'T BOTHER YOURSELF!!!!
+     * 
+     */
     class Program
     {
         private static IInstaApi InstaApi;
