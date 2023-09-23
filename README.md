@@ -32,4 +32,4 @@ MIT.
 Ramtin Jokar [ Ramtinak@live.com ] | [ https://t.me/ramtinak ]
 
 
-Iranian developers - (c) 2021 | Bahar 1400.
+Iranian developers - (c) 2023 | Paeez 1402.
