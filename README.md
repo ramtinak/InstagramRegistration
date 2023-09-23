@@ -27,9 +27,8 @@ MIT.
 ### Terms and conditions
 - Use this project at your own risk.
 
-
 ### Developer
-Ramtin Jokar [ Ramtinak@live.com ] | [ https://t.me/ramtinak ]
+Ramtin Jokar [ Ramtinak@live.com ] | [ https://t.me/ramtinak ] | [ https://t.me/ramtinjokar ]
 
 
 Iranian developers - (c) 2023 | Paeez 1402.
